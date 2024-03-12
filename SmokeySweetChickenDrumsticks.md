@@ -1,4 +1,6 @@
 # Honey-Smoked Paprika Drumsticks
+The flavours didn't quite mix. It definitely needs more marinade time than just an hour or so. To reduce overall time, it may be worth pressure cooking it all together, then air-fry just for crispness. Might be able to pressure cook from frozen with sauce for the same effect, which'd be convenient. Not sure the dijon was a good pick, there's an interest in a more savoury sauce, but the "stickiness" was good. It wasn't crispy enough on the outside, with the skin blackening (though also some caramelization on it), so we may want to consider a coating that crisps better, applied after the pressure cook maybe?
+
 
 ## Ingredients:
 - Drumsticks (with skin-on)
