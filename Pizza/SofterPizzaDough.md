@@ -1,19 +1,19 @@
 # Softer Pizza Dough
 
-##Ingredients:
- * 5 cups all-purpose flour
- * 12g (or 1 tablespoon) instant yeast
- * 2.5 tablespoons sugar
- * 1 tablespoon salt
- * 1/4 cup olive oil
- * 1/2 cup milk, slightly cooler than warm
- * 1 cup yogurt, room temperature
- * 1 tsp savory
+## Ingredients:
+* 600 grams (5 cups) all-purpose flour
+* 12g  (~1 tbsp)   instant yeast
+* 30g  (~2.5 tbsp) sugar
+* 15g  (~1 tbsp)   salt
+* 55g  (~1/4 cup)  olive oil (or substitute with avocado oil)
+* 125g (~1/2 cup)  milk (long rise, fridge temp. short rise, room temp)
+* 250g (~1 cup)    yogurt (long rise, fridge temp. short rise, room temp)
+* ~1 tsp savory
 
 ## Instructions:
 **Mix Dry Ingredients:** In a large mixing bowl, combine the flour, instant yeast, sugar, and salt. Mix well to distribute evenly.
 
-**Add Fats:** Stir in the olive oil until the mixture is crumbly.
+**Add Fats:** Stir in the olive oil (or avocado oil) until the mixture is crumbly.
 
 **Combine Milk and Yogurt:** Adjust the temperature of the milk and yogurt to be slightly cooler than warm. The goal is to slow down the yeast activity for a longer, more controlled rise.
 
@@ -29,4 +29,5 @@
 
 ## Additional Tips:
 **Cold Fermentation:** For even more flavor and air, consider a cold fermentation process. After the first rise, punch down the dough, divide it, and then refrigerate the portions overnight (or up to 48 hours) in airtight containers. Take them out about an hour before you plan to shape, top, and bake.
+
 **Hydration:** Playing with the hydration level of your dough can also affect its airiness. If the dough is too dry, consider adding a bit more liquid to achieve a slightly stickier consistency, which can support larger air bubbles.

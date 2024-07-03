@@ -6,7 +6,7 @@
  * 2 cups chicken broth (about 500g)
  * 1 teaspoon garlic powder
  * 1 teaspoon onion powder
- * 2 tablespoons Worcestershire sauce
+ * 1/2 tablespoons Worcestershire sauce
  * 1/8 tsp ground pepper
  * 1/2 tsp salt
  * Optional: Herb spicing
@@ -28,6 +28,7 @@
 **Peppery:** 1 tbsp klack pepercorn. skip original pepper amount. Saute peppercorns in butter and strain out before proceeding.
 
 **Savory:** 1 tsp dried thyme, 1 tsp dried rosemary. Crush them before adding to release flavor
+This one tasted a bit like a roast. Flavourful, but wasn't what folks expected.
 
 ## Additional Tips:
 * **Balancing Flavors:** Feel free to adjust the seasonings according to your family's preference for a truly personalized touch.
