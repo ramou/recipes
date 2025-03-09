@@ -1,17 +1,22 @@
-### Pizza Dough Recipe
+# Pizza Dough Recipe
 
-#### Ingredients:
-- 4 cups all-purpose flour (480g)
+## Ingredients:
+
+### Dry
+- 3.5 cups all-purpose flour (420g)
 - 1 tbsp instant yeast (9g)
 - 2 tbsp sugar (25g)
 - 1 tbsp salt (18g)
-- 2 tbsp avocado oil (28g)
-- 1 cup Greek yogurt (240g)
-- 1 cup milk (240g) (higher fat preferred, but 2% works)
 - 1 tbsp garlic powder (optional) (8g)
 - 1 tsp savory or sage (1g)
 
-#### Instructions:
+### Wet
+- 1 cup Greek yogurt (240g)
+- 1 cup milk (240g) (higher fat preferred, but 2% works)
+- 1/4 cup avocado oil (28g)
+
+
+## Instructions:
 01. In a large bowl, mix flour, salt, savory (or sage), and garlic powder (if using).
 02. In a separate bowl, combine the Greek yogurt, milk, and avocado oil.
 03. Add the yogurt mixture to the dry ingredients and mix until a sticky, stretchy dough forms.
@@ -25,7 +30,29 @@
 
 *Note: This dough will be stickier and stretchier than typical pizza dough, so flour as needed when rolling it out.*
 
-#### Cold-Rise Adjustments
+### Cold-Rise Adjustments
  * after initial knead, let sit in fridge coverd for several hours and skip intermediate knead.
  * take out and let get to room temperature before kneeding it a bit, splitting it and shaping, as it'll handle better once at room temperature
  * Let it sit after shaping before adding toppings
+## Freezing and Thawing Instructions:
+
+### Freezing the Dough:
+1. After the first rise, divide the dough into portions (as per your preference, such as two balls).
+2. Wrap each portion tightly in plastic wrap and place in a freezer-safe bag. Squeeze out any excess air to prevent freezer burn.
+3. Label and store in the freezer for up to 3 months.
+
+### Thawing and Using the Dough:
+
+#### Long Thaw (Overnight in Fridge):
+1. Remove the dough from the freezer and place it in the fridge for 12-24 hours.
+2. Once thawed, allow the dough to come to room temperature for 30-60 minutes before using.
+3. Proceed with shaping and baking as usual.
+
+#### Medium Thaw (Room Temperature):
+1. Remove the dough from the freezer and let it thaw at room temperature for 2-3 hours.
+2. Once thawed, let it rise for another 30-60 minutes before shaping and baking.
+
+#### Short Thaw (Using Foodi 14-in-1 Proofing Option):
+1. Allow the frozen dough to soften slightly at room temperature for 30-60 minutes.
+2. Use the proofing function at 80-85°F (27-29°C) to thaw and proof the dough simultaneously for about 1-2 hours.
+3. Once the dough has thawed and risen, it is ready for shaping and baking.

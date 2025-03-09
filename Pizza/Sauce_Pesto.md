@@ -3,9 +3,9 @@
 ## Ingredients
 * 60g (~2 cups)  fresh basil leaves (approximately 100 leaves)
 * 25g (~1/2 cup) grated Parmesan cheese
-* 35g (~1/4 cup) pine nuts
-* 3 garlic cloves
-* 55g (~1/4 cup) olive oil (or substitute with avocado oil)
+* 35g (~1/4 cup) pine nuts (double for nuttier flavour)
+* 5 garlic cloves
+* 70g (~1/3 cup) olive oil (or substitute with avocado oil)
 * Salt and pepper to taste
 
 ## Instructions
