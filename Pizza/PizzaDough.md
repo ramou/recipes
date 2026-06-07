@@ -7,7 +7,7 @@
 * 4 cups all-purpose flour (480g)
 * 1 tbsp instant yeast (9g)
 * 2 tbsp sugar (25g)
-* 1 tbsp salt (18g)
+* 2 tsp salt (18g)
 * 1 tbsp garlic powder (optional) (8g)
 * 1 tsp savory or sage (1g)
 
