@@ -1,58 +1,85 @@
-# Pizza Dough Recipe
+# Pizza Dough Recipe (All-Yogurt Version)
 
-## Ingredients:
+## Ingredients
 
 ### Dry
-- 3.5 cups all-purpose flour (420g)
-- 1 tbsp instant yeast (9g)
-- 2 tbsp sugar (25g)
-- 1 tbsp salt (18g)
-- 1 tbsp garlic powder (optional) (8g)
-- 1 tsp savory or sage (1g)
+
+* 4 cups all-purpose flour (480g)
+* 1 tbsp instant yeast (9g)
+* 2 tbsp sugar (25g)
+* 1 tbsp salt (18g)
+* 1 tbsp garlic powder (optional) (8g)
+* 1 tsp savory or sage (1g)
 
 ### Wet
-- 1 cup Greek yogurt (240g)
-- 1 cup milk (240g) (higher fat preferred, but 2% works)
-- 1/4 cup avocado oil (28g)
 
+* 2 cups Greek yogurt (480g)
+* 2 tbsp avocado oil (28g)
 
-## Instructions:
-01. In a large bowl, mix flour, salt, savory (or sage), and garlic powder (if using).
-02. In a separate bowl, combine the Greek yogurt, milk, and avocado oil.
-03. Add the yogurt mixture to the dry ingredients and mix until a sticky, stretchy dough forms.
-04. Knead the dough on a floured surface for 3-4 minutes.
-05. Cover the dough with a damp cloth and let it rest for 60-90 minutes.
-06. After the first rise, knead the dough again, divide it into two portions, and let it rest, covered, for another 30 minutes.
-07. Roll out each dough ball. Add your desired toppings. Let the dough rise for 10 minutes.
-08. Preheat your oven to 500°F (adjust if using a convection oven).
-09. Bake the pizzas on parchment paper for 10-12 minutes, or until golden brown.
-10. Remove from the oven, let cool briefly, slice, and serve.
+## Instructions
 
-*Note: This dough will be stickier and stretchier than typical pizza dough, so flour as needed when rolling it out.*
+1. In a large bowl, combine flour, yeast, sugar, salt, savory (or sage), and garlic powder.
+2. Add the yogurt and avocado oil.
+3. Mix until a shaggy dough forms.
+4. Knead for 4-6 minutes until smooth and elastic. Add a little flour if excessively sticky, but keep the dough soft.
+5. Place in a lightly oiled bowl, cover, and let rise 60-90 minutes, or until roughly doubled.
 
-### Cold-Rise Adjustments
- * after initial knead, let sit in fridge coverd for several hours and skip intermediate knead.
- * take out and let get to room temperature before kneeding it a bit, splitting it and shaping, as it'll handle better once at room temperature
- * Let it sit after shaping before adding toppings
-## Freezing and Thawing Instructions:
+### Same-Day Method
 
-### Freezing the Dough:
-1. After the first rise, divide the dough into portions (as per your preference, such as two balls).
-2. Wrap each portion tightly in plastic wrap and place in a freezer-safe bag. Squeeze out any excess air to prevent freezer burn.
-3. Label and store in the freezer for up to 3 months.
+6. Divide into two dough balls.
+7. Cover and rest 20-30 minutes.
+8. Stretch gently by hand into pizza shapes. Avoid rolling if possible.
+9. Allow the stretched dough to proof 15-30 minutes.
+10. Add toppings.
+11. Bake at 500°F for 10-12 minutes, or until browned and bubbly.
 
-### Thawing and Using the Dough:
+### Cold-Rise Method
 
-#### Long Thaw (Overnight in Fridge):
-1. Remove the dough from the freezer and place it in the fridge for 12-24 hours.
-2. Once thawed, allow the dough to come to room temperature for 30-60 minutes before using.
-3. Proceed with shaping and baking as usual.
+6. After kneading, place the entire dough in a covered container and refrigerate 12-72 hours.
+7. Remove from the refrigerator 60-90 minutes before baking.
+8. Divide into two dough balls.
+9. Rest 20-30 minutes.
+10. Stretch by hand.
+11. Proof the stretched dough 15-30 minutes.
+12. Add toppings and bake.
 
-#### Medium Thaw (Room Temperature):
-1. Remove the dough from the freezer and let it thaw at room temperature for 2-3 hours.
-2. Once thawed, let it rise for another 30-60 minutes before shaping and baking.
+## Freezing Instructions
 
-#### Short Thaw (Using Foodi 14-in-1 Proofing Option):
-1. Allow the frozen dough to soften slightly at room temperature for 30-60 minutes.
-2. Use the proofing function at 80-85°F (27-29°C) to thaw and proof the dough simultaneously for about 1-2 hours.
-3. Once the dough has thawed and risen, it is ready for shaping and baking.
+### Freezing
+
+1. Complete the first rise.
+2. Divide into two dough balls.
+3. Lightly oil each ball.
+4. Wrap tightly and place in freezer bags.
+5. Freeze for up to 3 months.
+
+### Long Thaw (Best)
+
+1. Move dough from freezer to refrigerator 12-24 hours before use.
+2. Allow to warm at room temperature for 30-60 minutes.
+3. Stretch into pizza shape.
+4. Proof 15-30 minutes.
+5. Add toppings and bake.
+
+### Medium Thaw
+
+1. Thaw at room temperature for 2-3 hours.
+2. Stretch into pizza shape.
+3. Proof 20-30 minutes.
+4. Add toppings and bake.
+
+### Quick Thaw (Foodi Proof Mode)
+
+1. Let frozen dough soften at room temperature for 20-30 minutes.
+2. Place in Foodi proof mode (80-90°F / 27-32°C) until thawed and slightly puffy, approximately 60-90 minutes.
+3. Stretch into pizza shape.
+4. Return to proof mode for 15-20 minutes.
+5. Add toppings and bake.
+
+## Notes
+
+* This dough is intentionally soft and forgiving.
+* Stretching preserves trapped gas better than rolling.
+* Most of the rise comes from the proof after shaping.
+* If the dough fights you while stretching, let it rest for 10 minutes and try again.
+* For extra chew, bake on a preheated pizza stone or steel.
