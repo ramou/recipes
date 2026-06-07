@@ -1,4 +1,4 @@
-# Pizza Dough Recipe (All-Yogurt Version)
+# Pizza Dough Recipe
 
 ## Ingredients
 
@@ -18,68 +18,32 @@
 
 ## Instructions
 
-1. In a large bowl, combine flour, yeast, sugar, salt, savory (or sage), and garlic powder.
-2. Add the yogurt and avocado oil.
-3. Mix until a shaggy dough forms.
-4. Knead for 4-6 minutes until smooth and elastic. Add a little flour if excessively sticky, but keep the dough soft.
-5. Place in a lightly oiled bowl, cover, and let rise 60-90 minutes, or until roughly doubled.
+1. Mix dry ingredients.
+2. Add yogurt and oil. Mix until a shaggy dough forms.
+3. Knead 4-6 minutes until smooth and elastic.
+4. Cover and rise 60-90 minutes.
+5. Divide into two dough balls and rest 20-30 minutes.
+6. Stretch by hand into pizza shapes.
+7. Proof 15-30 minutes.
+8. Add toppings.
+9. Bake at 500°F for 10-12 minutes.
 
-### Same-Day Method
+## Cold Rise
 
-6. Divide into two dough balls.
-7. Cover and rest 20-30 minutes.
-8. Stretch gently by hand into pizza shapes. Avoid rolling if possible.
-9. Allow the stretched dough to proof 15-30 minutes.
-10. Add toppings.
-11. Bake at 500°F for 10-12 minutes, or until browned and bubbly.
+After kneading, refrigerate covered for 12-72 hours. Remove 60-90 minutes before baking, divide, stretch, proof, top, and bake as normal.
 
-### Cold-Rise Method
+## Freezing
 
-6. After kneading, place the entire dough in a covered container and refrigerate 12-72 hours.
-7. Remove from the refrigerator 60-90 minutes before baking.
-8. Divide into two dough balls.
-9. Rest 20-30 minutes.
-10. Stretch by hand.
-11. Proof the stretched dough 15-30 minutes.
-12. Add toppings and bake.
+Freeze after the first rise as individual dough balls.
 
-## Freezing Instructions
+* Best: thaw overnight in fridge, then 30-60 minutes on counter.
+* Faster: thaw 2-3 hours at room temperature.
+* Fastest: thaw/proof in Foodi at 80-90°F.
 
-### Freezing
-
-1. Complete the first rise.
-2. Divide into two dough balls.
-3. Lightly oil each ball.
-4. Wrap tightly and place in freezer bags.
-5. Freeze for up to 3 months.
-
-### Long Thaw (Best)
-
-1. Move dough from freezer to refrigerator 12-24 hours before use.
-2. Allow to warm at room temperature for 30-60 minutes.
-3. Stretch into pizza shape.
-4. Proof 15-30 minutes.
-5. Add toppings and bake.
-
-### Medium Thaw
-
-1. Thaw at room temperature for 2-3 hours.
-2. Stretch into pizza shape.
-3. Proof 20-30 minutes.
-4. Add toppings and bake.
-
-### Quick Thaw (Foodi Proof Mode)
-
-1. Let frozen dough soften at room temperature for 20-30 minutes.
-2. Place in Foodi proof mode (80-90°F / 27-32°C) until thawed and slightly puffy, approximately 60-90 minutes.
-3. Stretch into pizza shape.
-4. Return to proof mode for 15-20 minutes.
-5. Add toppings and bake.
+In all cases: stretch first, then proof 15-30 minutes before topping and baking.
 
 ## Notes
 
-* This dough is intentionally soft and forgiving.
-* Stretching preserves trapped gas better than rolling.
-* Most of the rise comes from the proof after shaping.
-* If the dough fights you while stretching, let it rest for 10 minutes and try again.
-* For extra chew, bake on a preheated pizza stone or steel.
+* Stretching preserves more rise than rolling.
+* If the dough resists stretching, rest 10 minutes and try again.
+* A pizza stone or steel improves browning and chew.
